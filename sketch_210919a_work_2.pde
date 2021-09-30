@@ -4,7 +4,7 @@ void setup(){
     noStroke();
  rect(0,0,350,350);
  rect(350,350,250,250);
-     frameRate(5);
+     frameRate(10);
 }
   
   void draw ()
